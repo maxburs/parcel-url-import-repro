@@ -1,0 +1,13 @@
+{
+  "name": "parcel-url-import-repro",
+  "version": "0.0.0",
+  "repository": "https://github.com/maxburs/parcel-url-import-repro.git",
+  "author": "Maxwell Burson <maburson@microsoft.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
